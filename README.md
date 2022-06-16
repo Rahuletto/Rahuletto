@@ -1,17 +1,25 @@
-<div align='center'>
-<p align='center'><img src="https://media.discordapp.net/attachments/934772032325976156/948560949080649728/Group_7_4.png?max-width=200px" alt="rahuletto" border="0" width="200"></p>
+![wide-pic](https://user-images.githubusercontent.com/71836991/174098573-5bdf26e1-10ec-4e85-a32e-605b8a2914ac.png)
 
-# Hello.. I am Rahul Marban
+# Hi, I'm Rahul Marban.
+### An idiotic `Typescript` and `Javascript` developer who knows `Html/CSS and C++` too !
 
-### I am
-**[a Discord.js Bot developer](https://discord.gg/3JzDV9T5Fn)** <br>
-**[npm package developer](https://simplyd.js.org) (by accident i guess)** <br>
-**[Web Designer](https://rahuletto.github.io) maybe ?** <br>
-**[A 3D Modelling](https://instagram.com/rahuletto) guy** <br>
-**Insane Car guy 🏎** 
+- #### Founder of **Simply-Develop**
+- #### npm package developer
+- #### Front end developer
+- #### Does 3D modelling
 
-### Things i worked with 😳
+<br>
 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img alt="NPM" src ="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img alt="ChartJS" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" /> <img alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-   </div>
+[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuletto&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/rahuletto)
+
+----------------
+
+# Repositories
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=rahuletto&repo=simply-djs&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/rahuletto/simply-djs)  [![card](https://github-readme-stats.vercel.app/api/pin/?username=simply-develop&repo=binnium&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/simply-djs/binnium)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=rahuletto&repo=simply-xp&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/rahuletto/simply-xp) [![card](https://github-readme-stats.vercel.app/api/pin/?username=rahuletto&repo=calculator&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/rahuletto/calculator)
+
+------------------
+
+# My Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuletto&theme=dark&show_icons=true&icon_color=FFFFFF&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/rahuletto)
