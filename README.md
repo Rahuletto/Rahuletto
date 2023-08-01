@@ -1,18 +1,15 @@
 ![wide-pic](https://user-images.githubusercontent.com/71836991/174098573-5bdf26e1-10ec-4e85-a32e-605b8a2914ac.png)
 
 # Hi, I'm Rahul Marban.
-### An idiotic `Typescript`, `Javascript` developer who knows `HTML/CSS`, `Python` and a bit `Java` too !
+### A `Typescript`, `Javascript` developer who knows `HTML/CSS`, `Python` and a bit `Java` and `GoLang` too !
 
 Hi There 👋, I am Rahul Marban. An 18 year old self taught developer.
 I am
 - ### UI Designer /Developer
-  A Front end developer and web designer
+  A Full stack developer but loves front end development
 
 - ### Open source developer
   Working as a Community to simplify programming yet being open-source in github.
-
-- ### Founded Minimalistz
-  Founded a non-profit community to make solutions for the masses.
   
 <br>
 
