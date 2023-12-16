@@ -1,15 +1,21 @@
 ![wide-pic](https://user-images.githubusercontent.com/71836991/174098573-5bdf26e1-10ec-4e85-a32e-605b8a2914ac.png)
 
 # Hi, I'm Rahul Marban.
-### A `Typescript`, `Javascript` developer who knows `HTML/CSS`, `Python` and a bit `Java` and `GoLang` too !
+### An idiotic Typescript and open source developer
 
 Hi There 👋, I am Rahul Marban. An 18 year old self taught developer.
 I am
+- ### Full-Stack Developer
+  > I taught myself to build everything from the visible parts of websites to the behind-the-scenes magic, making tech accessible and user-friendly.
+  
 - ### UI Designer /Developer
-  A Full stack developer but loves front end development
+  > From pixels to perfection, Im an UI designer passionate about creating digital spaces that engage and accessible.
 
 - ### Open source developer
-  Working as a Community to simplify programming yet being open-source in github.
+  > Working as a community to make the programming a better space and contributing to open-source.
+
+- ### Student
+  > In the classroom or coding, I'm a student passionate about blending design finesse with tech savvy in digital creations.
   
 <br>
 
@@ -29,7 +35,7 @@ I am
 <div align='center'>
 
 [![card](https://github-readme-stats.vercel.app/api/pin/?username=unixporn-dots&repo=unixporn-dots.github.io&theme=dark&show_icons=true&bg_color=14151a&title_color=D21E1E&text_color=FFFFFF&border_color=D21E1E&icon_color=D21E1E&include_all_commits=true&border_radius=15)](https://unixporn-dots.github.io) [![card](https://github-readme-stats.vercel.app/api/pin/?username=rahuletto&repo=simply-djs&bg_color=14151a&theme=dark&title_color=206DA2&text_color=FFFFFF&show_icons=true&icon_color=206DA2&include_all_commits=true&layout=compact&border_radius=15&border_color=206DA2)](https://github.com/rahuletto/simply-djs) 
-[![card](https://github-readme-stats.vercel.app/api/pin/?username=rahuletto&repo=codeboard&theme=dark&show_icons=true&bg_color=14151a&title_color=E1591F&text_color=FFFFFF&border_color=E1591F&icon_color=E1591F&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/rahuletto/codeboard) [![card](https://github-readme-stats.vercel.app/api/pin/?username=rahuletto&repo=chatbot&theme=dark&show_icons=true&show_icons=true&bg_color=14151a&title_color=d1d1d2&text_color=FFFFFF&border_color=d1d1d2&icon_color=d1d1d2&include_all_commits=true&border_radius=15)](https://github.com/rahuletto/chatbot)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=rahuletto&repo=codeboard&theme=dark&show_icons=true&bg_color=14151a&title_color=E1591F&text_color=FFFFFF&border_color=E1591F&icon_color=E1591F&include_all_commits=true&layout=compact&border_radius=15)](https://github.com/rahuletto/codeboard) [![card](https://github-readme-stats.vercel.app/api/pin/?username=rahuletto&repo=passket&theme=dark&show_icons=true&show_icons=true&bg_color=14151a&title_color=d1d1d2&text_color=FFFFFF&border_color=d1d1d2&icon_color=d1d1d2&include_all_commits=true&border_radius=15)](https://github.com/rahuletto/passket)
 
 </div>
 
