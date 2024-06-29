@@ -1,45 +1,67 @@
-![short](https://github.com/Rahuletto/Rahuletto/assets/71836991/5259c837-378d-4d04-888d-8e7ba97f3a74)
+[![banner](https://github.com/Rahuletto/Rahuletto/assets/71836991/d2c70f35-710e-486e-8be3-0345781c1ecf)](https://marban.is-a.dev)
 
-# Hi, I am Rahul Marban.
-### Building the future, pixel by pixel.
+# Hello! 👋
+I am [Rahul Marban](https://marban.is-a.dev), currently pursuing CSE with AIML at [SRMIST](https://srmist.edu.in). While I am passionate about AI, my true love lies in designing interfaces that combine aesthetic appeal with strong user experiences.
 
-I use a blend of code and imagination to design exceptional user experiences with minimalism
+I taught myself to build everything from the visible parts of websites to the behind-the-scenes magic, making tech accessible and user-friendly.
 
 ---
 
-Hey! I'm [Rahul Marban](https://linkedin.com/in/rahul-marban), also known as [Rahuletto.](https://rahuletto.thedev.id) An 18-year-old self-taught programmer.
-Websites? Backends? I've got them covered. Making technology more user-friendly and accessible, like transforming code into magic tricks for everyone. 
+### Technologies & Languages
+If you had a chance to see my projects, many of them were written in `Typescript`. Here are my most used languages:
 
-[![about me](https://github.com/Rahuletto/Rahuletto/assets/71836991/b395e3de-3752-416e-bc29-ff581c1b8dd5)](https://rahuletto.thedev.id/#about)
-
-<br>
-
-<div align='center'>
-<a href="https://github.com/Rahuletto?tab=repositories">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuletto&bg_color=070509&theme=dark&title_color=8A5AD1&text_color=FFFFFF&layout=compact&show_icons=true&border_color=8A5AD1&icon_color=8A5AD1&include_all_commits=true&border_radius=15&card_width=370"></img>
+<div align='left'>
+<a href="https://github.com/Rahuletto">
+            <img width="273" src="https://gitmystat.vercel.app/user?username=rahuletto&theme=gold"></img>
           </a>
-          <a href="https://github.com/Rahuletto">
-            <img width="370" src="https://github-readme-stats.vercel.app/api?username=Rahuletto&show_icons=true&bg_color=070509&title_color=8A5AD1&text_color=FFFFFF&border_color=8A5AD1&icon_color=8A5AD1&include_all_commits=true&layout=compact&border_radius=15&card_width=370"></img>
+          <a href="https://github.com/Rahuletto?tab=repositories">
+            <img src="https://gitmystat.vercel.app/top?username=rahuletto&theme=gold&layout=bar"></img>
           </a>
 </div>
 
-----------------
+> Psst. The cards you just saw, that's my fun project [gitMyStat!](https://github.com/Rahuletto/gitmystat)
 
-# Repositories
-[![projects](https://github.com/Rahuletto/Rahuletto/assets/71836991/dbcb95cf-c8da-4721-8454-441f60fe38f5)](https://rahuletto.thedev.id/projects)
+---
+
+### Repositories
+
+Here are some of my notable projects (a.k.a. my big things and joy):
+
+[![unix-dots](https://gitmystat.vercel.app/repo?username=unixporn-dots&theme=gold&repo=unixporn-dots.github.io)](https://github.com/unixporn-dots/unixporn-dots.github.io)
+[![simply-djs](https://gitmystat.vercel.app/repo?username=rahuletto&repo=simply-djs&theme=gold)](https://github.com/rahuletto/simply-djs)
+[![academiapro](https://gitmystat.vercel.app/repo?username=rahuletto&repo=academiapro&theme=gold)](https://github.com/rahuletto/academiapro)
+[![gitmystat](https://gitmystat.vercel.app/repo?username=rahuletto&repo=gitmystat&theme=gold)](https://github.com/rahuletto/gitmystat)
+
+And some just-for-fun projects:
+
+[![yolo](https://gitmystat.vercel.app/repo?username=rahuletto&repo=yolo&theme=gold)](https://github.com/rahuletto/yolo)
+[![rocket](https://gitmystat.vercel.app/repo?username=rahuletto&repo=rocket&theme=gold)](https://github.com/rahuletto/rocket)
 
 
-------------------
+<img width="377" alt="fun-image" src="https://github.com/Rahuletto/Rahuletto/assets/71836991/98ec4195-f9c5-4a32-812e-af3ba6271985">
 
-# Contact
-## Let's make something amazing together
-### Don't hesitate to contact me. Lets get in touch *wink**
-<a href="mailto:rahulmarban@gmail.com">rahulmarban@gmail.com</a>
+---
+
+### Contact
+
+Want to get in touch? You can find me on various platforms:
 
 <div align="left">
+    <a href="mailto:rahulmarban@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://discord.gg/3JzDV9T5Fn"><img alt="discord" src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge"></a>
     <a href="https://instagram.com/rahul-marban"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow-FF0069?style=for-the-badge"></a>
     <a href="https://linkedin.com/in/rahul-marban"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
     <a href="https://github.com/Rahuletto"><img alt="github" src="https://img.shields.io/badge/Github-Contact-000000?style=for-the-badge"></a>
     <a href="https://twitter.com/rahuletto"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Contact-1D9BF0?style=for-the-badge"></a>
 </div>
+
+---
+
+# Let's create something amazing together!
+
+
+Wait, letme pull out what im recently working on.
+
+[![me](https://gitmystat.vercel.app/recent?username=rahuletto&theme=gold)](https://github.com/rahuletto)
+
+
