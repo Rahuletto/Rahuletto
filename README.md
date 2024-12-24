@@ -1,3 +1,4 @@
+![cover](https://github.com/user-attachments/assets/6965dc40-6520-480d-a42c-a34cc3ee95b4)
 
 # Hello! 👋
 I am [Rahul Marban](https://marban.is-a.dev), currently pursuing CSE with AIML at [SRMIST](https://srmist.edu.in). While I am passionate about AI, my true love lies in designing interfaces that combine aesthetic appeal with strong user experiences.
