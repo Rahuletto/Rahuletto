@@ -1,9 +1,9 @@
 ![cover](https://github.com/user-attachments/assets/6965dc40-6520-480d-a42c-a34cc3ee95b4)
 
 # Hello! 👋
-I am [Rahul Marban](https://marban.is-a.dev), currently pursuing CSE with AIML at [SRMIST](https://srmist.edu.in). While I am passionate about AI, my true love lies in designing interfaces that combine aesthetic appeal with strong user experiences.
+I am [Rahul Marban](https://marban.is-a.dev), a CSE with AIML student at [SRMIST](https://srmist.edu.in). I specialize in designing visually appealing and user-centered interfaces that create seamless and intuitive experiences.
 
-I taught myself to build everything from the visible parts of websites to the behind-the-scenes magic, making tech accessible and user-friendly.
+I have independently learned to develop both front-end interfaces and back-end systems, focusing on creating technology that is both accessible and practical for end-users.
 
 ---
 
