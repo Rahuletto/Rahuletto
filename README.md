@@ -34,7 +34,7 @@ Here are some of my notable projects (a.k.a. my big things and joy):
 
 And some just-for-fun projects:
 
-[![yolo](https://gitmystat.vercel.app/repo?username=rahuletto&repo=yolo&theme=gold&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265)](https://github.com/rahuletto/yolo)
+[![auto-resume](https://gitmystat.vercel.app/repo?username=rahuletto&repo=auto-resume&theme=gold&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265)](https://github.com/rahuletto/auto-resume)
 [![rocket](https://gitmystat.vercel.app/repo?username=rahuletto&repo=rocket&theme=gold&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265)](https://github.com/rahuletto/rocket)
 
 
